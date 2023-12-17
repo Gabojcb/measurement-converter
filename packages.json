@@ -1,4 +1,6 @@
 [
   "/helpers/package.json",
-  "/web-converter/package.json"
+  "/web/package.json",
+  "../../baleares/public/pragmate-ui/library/package.json"
+
 ]
