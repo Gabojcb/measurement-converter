@@ -3,10 +3,11 @@
 @import "material-design";
 @import 'palette/neutral';
 @import 'palette/dynamic';
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 :root {
-  --font-family: 'Poppins', sans-serif;
+  --font-family: 'Raleway', sans-serif;
   --secondary-font-family: 'Roboto', sans-serif;
   --bg-header: var(--secondary-background);
   --gray-base: #000000;
