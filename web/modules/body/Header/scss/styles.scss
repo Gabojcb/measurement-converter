@@ -1,0 +1,10 @@
+.container-header {
+    width: 100%;
+    padding: .5rem;
+    grid-area: header;
+
+    .container-header__h3 {
+        padding: 0;
+        margin: 0;
+    }
+}
